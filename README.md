@@ -3,8 +3,7 @@ Gym_Management_System for booking  membership and private sessions online
 Link in Google Drive
 https://drive.google.com/drive/folders/1CKeRlRqCPUkgTpMshZm8BdXQlUSfUklg?usp=drive_link
 
-
-6. Gym management system 
+Gym management system 
 An online platform designed to help gym owners efficiently manage their 
 members, trainers, and training schedules. The system enables gyms to track 
 memberships, organize training sessions, and manage fitness plans, while 
