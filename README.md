@@ -1,4 +1,5 @@
-# Gym_Management_System-
+# Gym_Management_System
+
 Gym_Management_System for booking  membership and private sessions online 
 Link in Google Drive
 https://drive.google.com/drive/folders/1CKeRlRqCPUkgTpMshZm8BdXQlUSfUklg?usp=drive_link
@@ -9,6 +10,7 @@ members, trainers, and training schedules. The system enables gyms to track
 memberships, organize training sessions, and manage fitness plans, while 
 members can book sessions, monitor their progress, and communicate with 
 trainers. 
+
 Actors (3 types of users): 
 • Admin 
 • Trainer 
