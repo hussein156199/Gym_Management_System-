@@ -18,21 +18,21 @@ Actors (3 types of users):
  
 Requirements: 
 Admin: 
-o Manage memberships (add, update, delete). 
-o Set up membership plans with details (duration, price, benefits). 
-o Manage trainers (add, update, delete). 
-o Schedule group training sessions and assign trainers. 
-o Monitor member bookings and handle payments. 
+ Manage memberships (add, update, delete). 
+ Set up membership plans with details (duration, price, benefits). 
+ Manage trainers (add, update, delete). 
+ Schedule group training sessions and assign trainers. 
+ Monitor member bookings and handle payments. 
  
 Trainer: 
-o Create personalized training plans for members, including exercises, 
+ Create personalized training plans for members, including exercises, 
 duration, and level. 
-o Track members’ progress and update performance reports. 
-o Conduct personal training sessions and group classes. 
-o Communicate with members for guidance and support. 
+ Track members’ progress and update performance reports. 
+ Conduct personal training sessions and group classes. 
+ Communicate with members for guidance and support. 
 
  
 Member: 
-o Register with the gym and select a membership plan. 
-o Book personal training sessions and join group classes. 
-o Track their training progress and update personal records. 
+ Register with the gym and select a membership plan. 
+ Book personal training sessions and join group classes. 
+ Track their training progress and update personal records. 
